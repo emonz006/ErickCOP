@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Erick Monzon's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/emonz006/erick.github/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello my name is Erick Monzon and I am currently a Sophmore at FIU. I am an Information Technology major and I currently know how to code in Java as well as some shell scripting and batch. 
 
 ### Markdown
 
